@@ -1,5 +1,8 @@
 ---
-# the default layout is 'page'
+layout: post
 icon: fas fa-user-circle
-order: 4
+order: 5
+toc: true
+post_style: page
 ---
+
