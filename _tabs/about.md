@@ -15,6 +15,10 @@ order: 10
       alt="reddit"
       src="https://raw.githubusercontent.com/doctorfree/doctorfree/master/icons/reddit.png"
     /></a>
+    <a href="https://github.com/doctorfree"><img align="center" height="40"
+      alt="github"
+      src="https://raw.githubusercontent.com/doctorfree/doctorfree/master/icons/github.png"
+    /></a>
     <a href="https://gitlab.com/doctorfree"><img align="center" height="40"
       alt="gitlab"
       src="https://raw.githubusercontent.com/doctorfree/doctorfree/master/icons/gitlab.png"
